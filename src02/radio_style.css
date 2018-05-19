@@ -1,0 +1,20 @@
+input[type="radio"]{
+    display: none;
+}
+
+.box{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 10%;
+    padding: 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.middle{
+    text-align: center;
+}
+
+input[type="radio"]:checked + .box{
+    background-color: aquamarine;
+}

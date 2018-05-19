@@ -3,3 +3,4 @@
 
 ## Index
 - src01 - input, button 태그 중앙정렬
+- src02 - radio-button 사각형으로 변경
