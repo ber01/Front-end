@@ -5,3 +5,4 @@
 - [src01](https://github.com/ber01/Front-end/tree/master/src01) - input, button 태그 중앙정렬
 - [src02](https://github.com/ber01/Front-end/tree/master/src02) - radio-button 사각형으로 변경
 - [src03](https://github.com/ber01/Front-end/tree/master/src03) - a 태그 영역 넓히기
+- [src04](https://github.com/ber01/Front-end/tree/master/src04) - background image 삽입 및 크기 조정
